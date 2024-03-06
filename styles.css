@@ -141,7 +141,7 @@ pre{
     padding: 7px 17px 7px 17px;
     border: none;
     position: relative;
-    bottom: 33px;
+    bottom: 18px;
 }
 
 .shop{
@@ -160,13 +160,13 @@ pre{
     background-color: #0a5c5c;
     width: 162px;
     height: 76px;
-    margin-bottom: 23px;
+    margin-bottom: 24px;
 
 }
 
 .shop button{
     display: inline-block;
-    margin-top: 5px;
+    margin-bottom: 7px;
 
     width: 162px;
     color: #023c19;
@@ -287,15 +287,24 @@ p{
 .disc
 {
     position: relative;
-    bottom: 127px;
+    bottom: 137px;
     left: 27px;
 }
 
 .disc pre{
     font-size: 10px;
+    line-height: 10px;
 }
 
 .Discount{
+    position: relative;
+    top: 10px;
     font-size: 27px;
     font-weight: bold;
+    color: #1b3a27;
+    font-family: "Bodoni Moda", serif;
+}
+
+.subtext pre{
+    line-height: 20px;
 }
